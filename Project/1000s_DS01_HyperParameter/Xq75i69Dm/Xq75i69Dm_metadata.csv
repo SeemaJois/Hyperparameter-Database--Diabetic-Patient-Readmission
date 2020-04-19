@@ -1,0 +1,63 @@
+,0,1
+0,start_time,1556252929.398987
+1,target,readmitted
+2,server_path,C:\Users\joiss\Desktop\NEU-MSIS\2_Sem2\INFO6105_Data_Science_Engineering_Methods\0_HyperParameter\1000_DS01_HyperParameter
+3,data_path,
+4,test_path,
+5,max_models,9
+6,run_time,1000
+7,run_id,Xq75i69Dm
+8,scale,False
+9,classification,True
+10,model_path,
+11,balance,False
+12,balance_threshold,0.2
+13,project,
+14,end_time,1556253932.7849202
+15,execution_time,1003.3859331607819
+16,run_path,C:\Users\joiss\Desktop\NEU-MSIS\2_Sem2\INFO6105_Data_Science_Engineering_Methods\0_HyperParameter\1000_DS01_HyperParameter\Xq75i69Dm
+17,nthreads,1
+18,min_mem_size,6
+19,analysis,0
+20,X,"['race', 'gender', 'age', 'weight', 'admission_type_id', 'time_in_hospital', 'medical_specialty', 'num_lab_procedures', 'num_procedures', 'num_medications', 'number_outpatient', 'number_emergency', 'number_inpatient', 'diag_1', 'diag_2', 'diag_3', 'number_diagnoses', 'insulin']"
+21,variables,"['id', 'patient_nbr', 'race', 'gender', 'age', 'weight', 'admission_type_id', 'discharge_disposition_id', 'admission_source_id', 'time_in_hospital', 'payer_code', 'medical_specialty', 'num_lab_procedures', 'num_procedures', 'num_medications', 'number_outpatient', 'number_emergency', 'number_inpatient', 'diag_1', 'diag_2', 'diag_3', 'number_diagnoses', 'max_glu_serum', 'A1Cresult', 'metformin', 'repaglinide', 'nateglinide', 'chlorpropamide', 'glimepiride', 'acetohexamide', 'glipizide', 'glyburide', 'tolbutamide', 'pioglitazone', 'rosiglitazone', 'acarbose', 'miglitol', 'troglitazone', 'tolazamide', 'examide', 'citoglipton', 'insulin', 'glyburide-metformin', 'glipizide-metformin', 'glimepiride-pioglitazone', 'metformin-rosiglitazone', 'metformin-pioglitazone', 'change', 'diabetesMed', 'readmitted']"
+22,model_execution_time,1001.9483890533447
+23,models,"0      GLM_grid_1_AutoML_20190426_002850_model_1
+1      GBM_grid_1_AutoML_20190426_002850_model_7
+2     GBM_grid_1_AutoML_20190426_002850_model_24
+3     GBM_grid_1_AutoML_20190426_002850_model_29
+4     GBM_grid_1_AutoML_20190426_002850_model_18
+5     GBM_grid_1_AutoML_20190426_002850_model_11
+6     GBM_grid_1_AutoML_20190426_002850_model_30
+7     GBM_grid_1_AutoML_20190426_002850_model_27
+8                   XRT_1_AutoML_20190426_002850
+9     GBM_grid_1_AutoML_20190426_002850_model_26
+10    GBM_grid_1_AutoML_20190426_002850_model_22
+11                  DRF_1_AutoML_20190426_002850
+12    GBM_grid_1_AutoML_20190426_002850_model_12
+13    GBM_grid_1_AutoML_20190426_002850_model_21
+14     GBM_grid_1_AutoML_20190426_002850_model_6
+15    GBM_grid_1_AutoML_20190426_002850_model_25
+16     GBM_grid_1_AutoML_20190426_002850_model_3
+17     GBM_grid_1_AutoML_20190426_002850_model_2
+18                  GBM_5_AutoML_20190426_002850
+19                  GBM_1_AutoML_20190426_002850
+20    GBM_grid_1_AutoML_20190426_002850_model_13
+21     GBM_grid_1_AutoML_20190426_002850_model_4
+22    GBM_grid_1_AutoML_20190426_002850_model_19
+23    GBM_grid_1_AutoML_20190426_002850_model_23
+24    GBM_grid_1_AutoML_20190426_002850_model_10
+25                  GBM_2_AutoML_20190426_002850
+26    GBM_grid_1_AutoML_20190426_002850_model_20
+27                  GBM_3_AutoML_20190426_002850
+28    GBM_grid_1_AutoML_20190426_002850_model_15
+29                  GBM_4_AutoML_20190426_002850
+30    GBM_grid_1_AutoML_20190426_002850_model_28
+31     GBM_grid_1_AutoML_20190426_002850_model_9
+32     GBM_grid_1_AutoML_20190426_002850_model_8
+33    GBM_grid_1_AutoML_20190426_002850_model_17
+34    GBM_grid_1_AutoML_20190426_002850_model_14
+35     GBM_grid_1_AutoML_20190426_002850_model_5
+36     GBM_grid_1_AutoML_20190426_002850_model_1
+37    GBM_grid_1_AutoML_20190426_002850_model_16
+Name: model_id, dtype: object"
